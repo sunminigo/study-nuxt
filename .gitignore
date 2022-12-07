@@ -1,0 +1,45 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
+
+# local env files
+.nuxt.*
+.env
+.env.*
+.env.local
+.env.*.local
+webStorm.config.js
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.stylelintcache
+.eslintcache
+
+package-lock.json
+
+### yarn ###
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.vercel
+.certs

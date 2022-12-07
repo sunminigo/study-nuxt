@@ -1,0 +1,8 @@
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+
+.sec-box {
+    @apply bg-white shadow-sm rounded-sm p-6 mt-6;
+}

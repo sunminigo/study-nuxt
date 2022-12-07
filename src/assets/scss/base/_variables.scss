@@ -1,0 +1,36 @@
+:root {
+  --white: #fff;
+  --black: #0f0f0f;
+
+  --primary-color: #00B295;
+  --success-color: #00B295;
+  --info-color: #52525B;
+  --warning-color: #ff9800;
+  --error-color: #e51c23;
+
+  --gray-50: #FAFAFA;
+  --gray-75: #FCFCFC;
+  --gray-100: #F4F4F5;
+  --gray-150: #EDEDED;
+  --gray-200: #E4E4E7;
+  --gray-300: #D4D4D8;
+  --gray-400: #A1A1AA;
+  --gray-500: #71717A;
+  --gray-600: #52525B;
+  --gray-700: #333333;
+  --gray-900: #18181B;
+
+  --warning: #DF0738;
+
+  --primary-dark: #24252B;
+
+  --base-font-family: 'Noto Sans KR';
+  --header-height: 56px;
+  --header-z-index: 100;
+  --work-width: 1400px;
+  --footer-height: 56px;
+}
+
+$base-font-family: 'Noto Sans KR';
+$base-duration: 0.3s;
+$base-ease: cubic-bezier(0.785, 0.135, 0.15, 0.86);
